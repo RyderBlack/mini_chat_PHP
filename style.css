@@ -1,0 +1,61 @@
+body {
+    background-color: #eee;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.formulaire {
+    width: 25%;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 18px;
+}
+
+label:first-of-type {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.input01 {
+    width: 120px;
+    padding: 10px;
+    margin-bottom: 8px;
+}
+
+.input02 {
+    width: 250px;
+    padding: 20px;
+    margin-bottom: 8px;
+}
+
+button {
+    background: white;
+    border: 2px solid #1b1b1b;
+    padding: 15px;
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.container-chat {
+    width: 800px;
+    height: 1200px;
+    overflow: scroll;
+    background-color: #1b1b1b;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
+.pseudo-p {
+    text-align: center;
+    font-size: 26px;
+    color: #fff;
+}
+
+.message-p {
+    text-align: center;
+    font-size: 16px;
+}
